@@ -105,6 +105,8 @@ Defines pipeline stages:
 
 ## Execution Flow
 
+```text
+
 Jenkins Pipeline
 |
 v
@@ -118,6 +120,7 @@ Verify Version
 |
 v
 SUCCESS / FAILURE
+```
 
 ---
 
